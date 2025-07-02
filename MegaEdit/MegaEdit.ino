@@ -1,4 +1,5 @@
 // Arduino Mega 2560 Memory Editor/Viewer
+// INSCCOIN 2025 V 1.0
 // Usage via Serial Monitor:
 //   r <address> <length>   - Read memory
 //   w <address> <value>    - Write memory
