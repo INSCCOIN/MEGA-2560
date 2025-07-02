@@ -1,5 +1,6 @@
 // Arduino Mega 2560 Memory Editor/Viewer
 // INSCCOIN 2025 V 1.0
+// CHATGPT COMMENTED THIS CODE, CHATGPT DID NOT WRITE THIS CODE
 // Usage via Serial Monitor:
 //   r <address> <length>   - Read memory
 //   w <address> <value>    - Write memory
