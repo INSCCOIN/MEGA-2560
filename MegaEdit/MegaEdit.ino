@@ -9,7 +9,7 @@
 uint8_t outputFormat = 0;
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(115200); // SET YOUR TERMINAL TO 115200 
   while (!Serial) { ; }
   Serial.println("Memory Editor/Viewer Ready");
   Serial.println("Commands: r addr len | w addr val | e addr len | ew addr val");
